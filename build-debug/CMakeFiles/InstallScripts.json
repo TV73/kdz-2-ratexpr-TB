@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/usersz73/projects/kdz2-ratexpr/build-debug/cmake_install.cmake",
+		"/home/usersz73/projects/kdz2-ratexpr/build-debug/src/cmake_install.cmake",
+		"/home/usersz73/projects/kdz2-ratexpr/build-debug/apps/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

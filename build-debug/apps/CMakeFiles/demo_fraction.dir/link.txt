@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/demo_fraction.dir/link.d CMakeFiles/demo_fraction.dir/demo_fraction.cpp.o -o demo_fraction  ../src/libratexpr.a

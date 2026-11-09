@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/demo_expression.dir/link.d CMakeFiles/demo_expression.dir/demo_expression.cpp.o -o demo_expression  ../src/libratexpr.a
