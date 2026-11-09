@@ -1,2 +1,0 @@
-/usr/bin/ar qc libratexpr.a CMakeFiles/ratexpr.dir/fraction.cpp.o CMakeFiles/ratexpr.dir/expression.cpp.o CMakeFiles/ratexpr.dir/simplification.cpp.o
-/usr/bin/ranlib libratexpr.a
